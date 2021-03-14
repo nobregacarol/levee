@@ -1,0 +1,48 @@
+partnerId|title|categoryId|ExpiresAt|openPositionAmnt
+1123|Vendedor|3|21/1/2020|1
+1245|Vendedor de cosméticos|3|4/9/2016|1
+1371|Operador de Call Center|4|12/9/2019|1
+1397|Operador de Call Center|4|21/08/2020|1
+2411|Operador de Call Center|4|13/12/2020|1
+2446|Operador de Call Center|4|26/1/2019|2
+2437|Operador de Call Center|4|4/4/2020|1
+2766|Operador de Call Center|4|7/2/2020|1
+2876|Operador de Call Center|4|8/11/2020|6
+2911|Operador de Call Center|4|4/3/2019|1
+3001|Analista de Help Desk|1|23/9/2020|4
+3112|Analista de Help Desk|1|3/3/2020|1
+3197|Analista de Help Desk|1|1/4/2020|1
+1399|Operador de Cobrança|4|7/6/2020|1
+2301|Operador de Cobrança|4|2/7/2020|1
+3217|Recepcionista|2|3/12/2020|2
+2334|Recepcionista|2|5/12/2020|2
+3312|Recepcionista|2|11/12/2020|1
+3387|Assistente Administrativo|2|22/1/2020|1
+3892|Assistente Administrativo|2|4/2/2019|1
+3991|Assistente Administrativo|2|7/5/2020|1
+4190|Assistente Administrativo|2|21/9/2020|1
+4277|Office Boy|2|2/12/2015|1
+4435|Office Boy|2|25/12/2020|1
+4789|Secretária|2|11/1/2019|1
+4879|Secretária|2|6/6/2020|3
+4901|Secretária|2||2
+5012|Vendedor|3|12/11/2020|1
+5016|Vendedor|3|20/10/2020|1
+6122|Vendedor|3|13/4/2020|2
+6635|Vendedor|3|20/1/2020|1
+6798|Promotor de Vendas|3|21/8/2020|1
+6899|Promotor de Vendas|3|21/12/2020|1
+6900|Balconista|4||1
+7021|Balconista|4|3/8/2019|3
+7123|Balconista|4|1/9/2020|2
+7195|Balconista|4|11/10/2020|1
+7345|Balconista|4|19/10/2019|1
+7357|Balconista|4|30/1/2020|1
+7523|Balconista|4|12/2/2020|10
+8523|Balconista|4|3/3/2018|1
+9121|Assistente Comercial|3|9/9/2020|1
+9543|Assistente Comercial|3||1
+9143|Vendedor Externo|3|9/7/2020|1
+909|Vendedor Externo|3|16/12/2020|1
+9572|Vendedor Externo|3|19/1/2020|3
+9111|Vendedor Externo|3|9/11/2020|2
