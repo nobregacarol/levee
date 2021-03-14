@@ -27,6 +27,7 @@ try:
     result = cursor.fetchall()
 
     # Printing results
+    print("The number of Open Positions per Category Name: \n")
     for item in result:
         print(
             "Category: "
@@ -56,6 +57,7 @@ try:
     result = cursor.fetchall()
 
     # Printing results
+    print("The last three Jobs that have expired: \n")
     for item in result:
         print(
             "Category: "
