@@ -4,6 +4,11 @@ Author: Caroline Nóbrega
 
 ## Installation
 ### Python project
+There are four Python scripts: 
+- *db_load_data.py* loads data from .txt file into database tables;
+- *db_get_results.py* calculates the results using data from database;
+- *txt_get_results.py* calculates the results using data from .txt files;
+- *mysql_adapter.py* implements a class for open and close connection to database.
 
 ### Steps to prepare environment:
 1. Go to the project directory and open a terminal. 
