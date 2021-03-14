@@ -30,13 +30,15 @@ For this solution the output has a dataframe format.
 
 - Output for the current .txt file data:
 
-| name           |  ---   | 
-| Administrativo | 17     |
-| Atendimento    | 36     | 
-| Tecnologia     | 6      |
-| Vendas         | 18     | 
+| name           |  ---   
+| ---            | :--:   
+| Administrativo | 17     
+| Atendimento    | 36      
+| Tecnologia     | 6     
+| Vendas         | 18     
 
 | partnerId | title              | categoryId | ExpiresAt  | openPositionAmnt | name
+| ---       | ---                | ---        | ---        | ---              | :--:
 | 909       | Vendedor Externo   | 3          | 2020-12-16 | 1                | Vendas
 | 6899      | Promotor de Vendas | 3          | 2020-12-21 | 1                | Vendas
 | 4435      | Office Boy         | 2          | 2020-12-25 | 1                | Administrativo
@@ -55,14 +57,19 @@ For this solution the output has a text format.
 The number of Open Positions per Category Name: 
 
 Category: Administrativo - Open position amount: 17
+
 Category: Atendimento - Open position amount: 36
+
 Category: Tecnologia - Open position amount: 6
+
 Category: Vendas - Open position amount: 18
 
 
 The last three Jobs that have expired:
 
 Category: Administrativo - Job title: Office Boy - Expire date: 25/12/2020
+
 Category: Vendas - Job title: Promotor de Vendas - Expire date: 21/12/2020
+
 Category: Vendas - Job title: Vendedor Externo - Expire date: 16/12/2020
 
