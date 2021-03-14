@@ -25,10 +25,10 @@ The first solution uses the txt files to calculate the results. It only uses Pyt
 1. Run *python txt_get_results.py*
 2. See the result on terminal.
 
-### Output format
+### Output 
 For this solution the output has a dataframe format.
 
-- Output for the current .txt file data:
+- **Output for the current .txt file data:**
 
 | name           |  ---   
 | ---            | :--:   
@@ -49,10 +49,10 @@ The second solution uses the data from database tables to calculate the results.
 1. Run *python db_get_results.py*
 2. See the result on terminal.
 
-### Output format
+### Output 
 For this solution the output has a text format.
 
-- Output for the current data:
+- **Output for the current data:**
 
 The number of Open Positions per Category Name: 
 
